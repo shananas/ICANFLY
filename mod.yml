@@ -1,0 +1,27 @@
+title: ICANFLY
+originalAuthor: Shananas
+assets:
+- name: obj/B_LK100_00.mdlx
+  method: copy
+  source:
+  - name: obj/B_LK100_00.mdlx
+- name: obj/B_LK100_10.mdlx
+  method: copy
+  source:
+  - name: obj/B_LK100_10.mdlx
+- name: obj/B_LK100_20.mdlx
+  method: copy
+  source:
+  - name: obj/B_LK100_20.mdlx
+- name: obj/B_LK100_00_RTN.mdlx
+  method: copy
+  source:
+  - name: obj/B_LK100_00_RTN.mdlx
+- name: obj/B_LK100_10_RTN.mdlx
+  method: copy
+  source:
+  - name: obj/B_LK100_10_RTN.mdlx
+- name: obj/B_LK100_20_RTN.mdlx
+  method: copy
+  source:
+  - name: obj/B_LK100_20_RTN.mdlx
