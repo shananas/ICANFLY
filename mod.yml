@@ -1,5 +1,6 @@
 title: ICANFLY
 originalAuthor: Shananas
+game: kh2
 assets:
 - name: obj/B_LK100_00.mdlx
   method: copy
